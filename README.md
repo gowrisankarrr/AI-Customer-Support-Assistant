@@ -51,7 +51,7 @@ HTML, CSS, JavaScript / React
 
 🔗 Backend
 
-Java (Spring Boot) / Python (Flask or FastAPI)
+Java (Spring Boot)
 
 🔗 AI & NLP
 
@@ -61,7 +61,7 @@ Rule-based + AI-based response system
 
 🔗 Database
 
-MySQL / PostgreSQL / MongoDB
+MongoDB
 
 🔗 Tools
 
