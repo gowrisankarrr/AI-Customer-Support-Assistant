@@ -6,6 +6,7 @@ Customer support is a crucial part of any organization. This project aims to red
 The AI Customer Support Assistant understands user queries, provides accurate responses, and escalates complex issues to human support when required.
 
 🔗 Objectives
+
 Automate customer support interactions
 Reduce response time and operational cost
 Improve customer satisfaction
