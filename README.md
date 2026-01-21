@@ -207,22 +207,3 @@ This project is licensed under the MIT License.
 
 Author
 Developed by Gowrisankar Baskar
-
-yaml
-Copy code
-
----
-
-If you want, I can now:
-- Adapt this README specifically for **ResponseRally**
-- Convert it into a **college project report**
-- Add **API documentation**
-- Add **Docker + deployment steps**
-
-Just tell me what you want next.
-
-
-
-
-
-
